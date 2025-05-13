@@ -10,9 +10,9 @@ A program célja a hitelkártyás csalások detektálása mesterséges intellige
 
 ## Kiértékelés:
 
-- ** Confusion Matrix:** Megmutatja, hány tranzakciót osztályozott helyesen vagy tévesen a modell:
-- ** Classification Report:** Részletes mutatókat ad:
-- ** ROC Curve és AUC:** A modell osztályozási képességét mutatja.
+- **Confusion Matrix:** Megmutatja, hány tranzakciót osztályozott helyesen vagy tévesen a modell:
+- **Classification Report:** Részletes mutatókat ad:
+- **ROC Curve és AUC:** A modell osztályozási képességét mutatja.
 
 ## Követelmények:
 
