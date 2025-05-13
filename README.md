@@ -16,8 +16,8 @@ A program célja a hitelkártyás csalások detektálása mesterséges intellige
 
 ## Követelmények:
 
--Szoftverek és Könyvtárak
--Adathalmaz
--Fejlesztési környezet
--Rendszerkövetelmények
--Adatkezelés és Normalizálás
+- Szoftverek és Könyvtárak
+- Adathalmaz
+- Fejlesztési környezet
+- Rendszerkövetelmények
+- Adatkezelés és Normalizálás
