@@ -4,9 +4,9 @@ A program célja a hitelkártyás csalások detektálása mesterséges intellige
 
 ## Fájlok:
 
-- `fraud_detection.py: Ez a kód betölti az adatokat, előkészíti, kiegyensúlyozza és felépíti a modellt.
-- `creditcard.csv: Az adatállomány amit használunk.
-- `documentation.pdf: A részletes projekt dokumentációja.
+- `fraud_detection.py`: Ez a kód betölti az adatokat, előkészíti, kiegyensúlyozza és felépíti a modellt.
+- `creditcard.csv`: Az adatállomány amit használunk.
+- `documentation.pdf`: A részletes projekt dokumentációja.
 
 ## Kiértékelés:
 
