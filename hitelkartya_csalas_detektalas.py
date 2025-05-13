@@ -1,7 +1,7 @@
 
 # hitelkartya_csalas_detektalas.py
 # Hitelkártyás csalások detektálása gépi tanulással (Random Forest + SMOTE)
-# Adathalmaz: creditcard_sample.csv
+# Adathalmaz: creditcard.csv
 
 import pandas as pd
 import numpy as np
@@ -14,7 +14,7 @@ import seaborn as sns
 
 # 1. Adatok betöltése
 print("Adatok betöltése...")
-df = pd.read_csv("creditcard_sample.csv")
+df = pd.read_csv("creditcard.csv")
 print(f"Sorok száma: {df.shape[0]}, Oszlopok száma: {df.shape[1]}")
 
 # 2. Alap statisztika
