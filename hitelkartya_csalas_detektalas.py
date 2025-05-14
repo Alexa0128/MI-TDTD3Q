@@ -14,7 +14,7 @@ import seaborn as sns
 
 # 1. Adatok betöltése
 print("Adatok betöltése...")
-df = pd.read_csv("creditcard.csv")
+df = pd.read_csv("data/creditcard.csv")
 print(f"Sorok száma: {df.shape[0]}, Oszlopok száma: {df.shape[1]}")
 
 # 2. Alap statisztika
